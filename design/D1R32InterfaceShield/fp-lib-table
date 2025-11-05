@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ArduinoMountingHole")(type "KiCad")(uri "${KIPRJMOD}/footprints/ArduinoMountingHole.pretty")(options "")(descr ""))
+  (lib (name "ArduinoPinSocket")(type "KiCad")(uri "${KIPRJMOD}/footprints/ArduinoPinSocket.pretty")(options "")(descr ""))
+)

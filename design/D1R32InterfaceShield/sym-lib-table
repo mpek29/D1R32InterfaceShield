@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector_Arduino")(type "KiCad")(uri "${KIPRJMOD}/symbols/Connector_Arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "Mechanical_Arduino")(type "KiCad")(uri "${KIPRJMOD}/symbols/Mechanical_Arduino.kicad_sym")(options "")(descr ""))
+)
